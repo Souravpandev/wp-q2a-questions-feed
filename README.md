@@ -11,6 +11,24 @@
 - Requires at least: 5.0
 - Requires PHP: 7.2
 
+q2a-questions-feed/
+├── admin/
+│   ├── class-q2a-feed-admin.php  # Admin interface and settings
+│   └── css/
+│       └── admin.css             # Admin-specific styles
+├── assets/
+│   └── css/
+│       └── q2a-feed.css          # Frontend styles
+├── includes/
+│   ├── class-q2a-feed.php        # Main plugin class
+│   ├── class-q2a-feed-functions.php  # Helper functions (class-based)
+│   ├── class-q2a-feed-widget.php     # Widget implementation
+│   └── q2a-feed-functions.php    # Standalone functions
+├── q2a-questions-feed.php        # Main plugin file
+├── readme.txt                    # WordPress.org readme
+├── README.md                     # GitHub readme
+└── uninstall.php                 # Cleanup on uninstall
+
 # Q2A Questions Feed - WordPress Plugin
 
 A lightweight WordPress plugin that displays questions from a Question2Answer (Q2A) RSS feed using shortcodes or widgets.
