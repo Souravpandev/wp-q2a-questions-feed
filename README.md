@@ -18,10 +18,10 @@ q2a-questions-feed/
 ├── admin/
 │   ├── class-q2a-feed-admin.php      # Admin interface and settings
 │   └── css/
-│       └── admin.css                 # Admin-specific styles
+│       └── admin.min.css                 # Admin-specific styles
 ├── assets/
 │   └── css/
-│       └── q2a-feed.css              # Frontend styles
+│       └── q2a-feed.min.css              # Frontend styles
 ├── includes/
 │   ├── class-q2a-feed.php            # Main plugin class
 │   ├── class-q2a-feed-functions.php  # Helper functions (class-based)
