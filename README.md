@@ -1,3 +1,15 @@
+=== Q2A Questions Feed ===
+Plugin Name: Q2A Questions Feed
+Plugin URI: https://github.com/Souravpandev/wp-q2a-questions-feed
+Description: Display Question2Answer questions from an RSS feed using shortcode or widget
+Version: 1.0.0
+Author: Sourav Pan
+Author URI: https://wpoptimizelab.com/
+Text Domain: q2a-feed
+Domain Path: /languages
+Requires at least: 5.0
+Requires PHP: 7.2
+
 # Q2A Questions Feed - WordPress Plugin
 
 A lightweight WordPress plugin that displays questions from a Question2Answer (Q2A) RSS feed using shortcodes or widgets.
