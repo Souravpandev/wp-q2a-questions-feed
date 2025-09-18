@@ -1,4 +1,4 @@
-=== Q2A Questions Feed ===
+# Q2A Questions Feed
 
 - Plugin Name: Q2A Questions Feed
 - Plugin URI: https://github.com/Souravpandev/wp-q2a-questions-feed
