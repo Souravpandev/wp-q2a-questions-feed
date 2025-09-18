@@ -31,7 +31,7 @@ q2a-questions-feed/
 ├── readme.txt                        # WordPress.org readme
 ├── README.md                         # GitHub readme
 └── uninstall.php                     # Cleanup on uninstall
-
+```
 
 # Q2A Questions Feed - WordPress Plugin
 
